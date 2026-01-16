@@ -10,8 +10,8 @@ use App\Models\User;
 class AuthController extends Controller
 {
     // Admin credentials (move to .env in production)
-    private const ADMIN_USERNAME = 'Senghak';
-    private const ADMIN_PASSWORD = '062005';
+    private const ADMIN_USERNAME = 'Unthorn111@gmail.com';
+    private const ADMIN_PASSWORD = '20042004';
 
     /**
      * Show the login form
